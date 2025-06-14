@@ -9,8 +9,8 @@
             "styles": ["Outdoor", "Studio"],
             "tags": ["Candid", "Maternity"],
             "bio": "Award-winning studio specializing in maternity and newborn shoots.",
-            "profilePic": "/images/ravi.jpg",
-            "portfolio": ["/images/portfolio1.jpg", "/images/portfolio2.jpg"],
+            "profilePic": "/images/1/ravi.png",
+            "portfolio": ["/images/1/m1.jpg", "/images/1/m2.jpg"],
             "reviews": [
                 {
                     "name": "Ananya",
@@ -29,8 +29,8 @@
             "styles": ["Candid", "Indoor"],
             "tags": ["Newborn", "Birthday"],
             "bio": "Delhi-based candid specialist for kids and birthday parties.",
-            "profilePic": "/images/lensqueen.jpg",
-            "portfolio": ["/images/lens1.jpg", "/images/lens2.jpg"],
+            "profilePic": "/images/2/lens.png",
+            "portfolio": ["/images/2/m1.png", "/images/2/m2.png"],
             "reviews": [
                 {
                     "name": "Priya",
@@ -49,8 +49,8 @@
             "styles": ["Studio", "Outdoor", "Traditional"],
             "tags": ["Wedding", "Pre-wedding"],
             "bio": "Capturing timeless wedding stories across India.",
-            "profilePic": "/images/clickfactory.jpg",
-            "portfolio": ["/images/wed1.jpg", "/images/wed2.jpg"],
+            "profilePic": "/images/3/clickfactory.png",
+            "portfolio": ["/images/3/clickfactory1.png", "/images/3/clickfactory2.png"],
             "reviews": [
                 {
                     "name": "Rahul",
@@ -69,8 +69,8 @@
             "styles": ["Outdoor", "Candid"],
             "tags": ["Maternity", "Couple"],
             "bio": "Natural light specialist focusing on emotional storytelling.",
-            "profilePic": "/images/neha.jpg",
-            "portfolio": ["/images/neha1.jpg", "/images/neha2.jpg"],
+            "profilePic": "/images/4/neha.png",
+            "portfolio": ["/images/4/neha1.png", "/images/4/neha2.png"],
             "reviews": [
                 {
                     "name": "Sneha",
@@ -89,8 +89,8 @@
             "styles": ["Studio"],
             "tags": ["Birthday", "Family"],
             "bio": "Affordable indoor shoots with creative themes.",
-            "profilePic": "/images/snapshot.png",
-            "portfolio": ["/images/snapshot1.jpg", "/images/snapshot2.jpg"],
+            "profilePic": "/images/5/snapshot.png",
+            "portfolio": ["/images/5/snapshot1.png", "/images/5/snapshot2.png"],
             "reviews": [
                 {
                     "name": "Vikram",
