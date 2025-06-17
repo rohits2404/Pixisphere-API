@@ -19,7 +19,7 @@ server.listen(PORT, () => {
   
   // Self-pinging only if on Render
   if (true) {
-    const HOST = https://pixisphere-api-9t20.onrender.com;
+    const HOST = "https://pixisphere-api-9t20.onrender.com";
     const PING_URL = `https://${HOST}/ping`;
     
     console.log(`Setting up self-pinging to ${PING_URL}`);
